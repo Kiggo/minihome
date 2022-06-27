@@ -1,2 +1,1 @@
-##[minihome](https://kiggo.github.io/minihome/home.html)
-#minihome
+# [minihome](https://kiggo.github.io/minihome/home.html)
