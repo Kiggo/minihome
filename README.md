@@ -1,1 +1,1 @@
-# [minihome]
+#minihome
